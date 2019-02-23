@@ -1,0 +1,14 @@
+.container
+{
+  padding: 50px;
+}
+
+.btn
+{
+  transition: all 1.5s;
+}
+
+.btn:hover
+{
+  background: #000;
+}
